@@ -1,0 +1,16 @@
+C:\Users\szima.akos\source\repos\11.07_WPF\11.07_WPF\obj\Debug\11.07_WPF.csproj.AssemblyReference.cache
+C:\Users\szima.akos\source\repos\11.07_WPF\11.07_WPF\obj\Debug\11.07_WPF.csproj.SuggestedBindingRedirects.cache
+C:\Users\szima.akos\source\repos\11.07_WPF\11.07_WPF\obj\Debug\MainWindow.g.cs
+C:\Users\szima.akos\source\repos\11.07_WPF\11.07_WPF\obj\Debug\App.g.cs
+C:\Users\szima.akos\source\repos\11.07_WPF\11.07_WPF\obj\Debug\11.07_WPF_MarkupCompile.cache
+C:\Users\szima.akos\source\repos\11.07_WPF\11.07_WPF\obj\Debug\11.07_WPF_MarkupCompile.lref
+C:\Users\szima.akos\source\repos\11.07_WPF\11.07_WPF\bin\Debug\11.07_WPF.exe.config
+C:\Users\szima.akos\source\repos\11.07_WPF\11.07_WPF\bin\Debug\11.07_WPF.exe
+C:\Users\szima.akos\source\repos\11.07_WPF\11.07_WPF\bin\Debug\11.07_WPF.pdb
+C:\Users\szima.akos\source\repos\11.07_WPF\11.07_WPF\obj\Debug\MainWindow.baml
+C:\Users\szima.akos\source\repos\11.07_WPF\11.07_WPF\obj\Debug\11.07_WPF.g.resources
+C:\Users\szima.akos\source\repos\11.07_WPF\11.07_WPF\obj\Debug\_11._07_WPF.Properties.Resources.resources
+C:\Users\szima.akos\source\repos\11.07_WPF\11.07_WPF\obj\Debug\11.07_WPF.csproj.GenerateResource.cache
+C:\Users\szima.akos\source\repos\11.07_WPF\11.07_WPF\obj\Debug\11.07_WPF.csproj.CoreCompileInputs.cache
+C:\Users\szima.akos\source\repos\11.07_WPF\11.07_WPF\obj\Debug\11.07_WPF.exe
+C:\Users\szima.akos\source\repos\11.07_WPF\11.07_WPF\obj\Debug\11.07_WPF.pdb
